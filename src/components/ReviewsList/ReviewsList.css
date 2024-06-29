@@ -1,0 +1,15 @@
+.review{
+    background-color: rgb(225, 197, 193);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.review li{
+    -webkit-text-stroke: medium;
+}
+
+hr {
+    padding: 1px;
+    background: black;
+}

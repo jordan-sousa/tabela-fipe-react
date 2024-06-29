@@ -15,8 +15,10 @@ function ReviewsList({ reviews }) {
                         <p>Valor: {review.Valor}</p>
                         <p>Marca: {review.Marca}</p>
                         <p>Modelo: {review.Modelo} </p>
+                        <hr/>
                     </li>
                 ))}
+                
             </ul>
         </div>
     )
